@@ -3,8 +3,10 @@
 ## If you are a 42 Student, do not copy/paste this project, it will be considered cheating and you will be grated -42.
 
 # 42 Wolfsburg Cursus
-## Philosophers
-## I never thought philosophy would be so deadly
+## Minishell
+## As beautiful as a shell
+
+## This is the first group project of the common  core. </br>A big shoutout to my contributer: [Yana Dimitrova](https://github.com/ydimitro)
 
 # Contents
 
@@ -75,3 +77,7 @@ Your shell should:
 The readline() function can cause memory leaks. You don’t have to fix them. </br>But that **doesn’t mean your own code, yes the code you wrote, can have memory leaks**.
 
 ### ℹ️ You should limit yourself to the subject description. </br>Anything that is not asked is not required. If you have any doubt about a requirement, take [bash](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/) as a reference. ℹ️ 
+
+<p align="right">
+ <a href="https://github.com/Cerberus2290/minishell#-beware-">back to top</a>
+</p>
