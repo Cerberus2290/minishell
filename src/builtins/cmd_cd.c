@@ -30,7 +30,7 @@ int	ft_cd(char **args, t_enviro *envi)
 	if (args[1] && !str_equal(args[1], "~"))
 		path = args[1];
 	else
-		path = envi_value("__HOME", envi);
+		path = envi_value("HOME", envi);
 	if (chdir(path) != 0)
 	{
 		print_perror_msg("cd", args[1]);
